@@ -1,0 +1,23 @@
+{
+  "name": "email-rajnish",
+  "version": "0.1.0",
+  "description": "very simple npm module to send email to any email server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email",
+    "email-rajnish"
+  ],
+  "author": "learn2earnbyrajnish",
+  "licenses": [
+  {
+    "type": "MIT",
+    "url": "https://github.com/rajnishkumar9250/email-rajnish/blob/master/LICENSE"
+  }
+],
+  "dependencies": {
+    "python-shell": "^0.4.0"
+  }
+}
